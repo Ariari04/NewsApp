@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="news_image">Desc img</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="author">Author: %1$s</string>
+    <string name="source">Source: %1$s</string>
+    <string name="views">Views: %1$s</string>
+    <string name="favorite">Favorite</string>
+    <string name="image">Image</string>
+    <string name="no_news">No Articles</string>
+    <string name="no_favorite">No favorite Articles</string>
+</resources>
